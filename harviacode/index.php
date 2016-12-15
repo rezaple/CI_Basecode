@@ -8,7 +8,7 @@ require_once 'core/process.php';
 <html>
     <head>
         <title>Harviacode Codeigniter CRUD Generator</title>
-        <link rel="stylesheet" href="core/bootstrap.min.css"/>
+        <link rel="stylesheet" href="harviacode/core/bootstrap.min.css"/>
         <style>
             body{
                 padding: 15px;
